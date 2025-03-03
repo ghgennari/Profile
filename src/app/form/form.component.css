@@ -9,6 +9,14 @@ form{
     width: 300px;
 }
 
+img{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
 h1{
     display: block;
     font-size: 30px;
